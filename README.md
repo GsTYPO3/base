@@ -18,7 +18,7 @@ The following packages are required by this metapackage:
 This package sets some extras by default:
 
 * typo3/cms
-  * root-dir: private"
+  * root-dir: private
   * web-dir: public
 
 ## License
