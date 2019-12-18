@@ -14,11 +14,18 @@ The following packages are required by this metapackage:
 
 ## Extras
 
-This package sets some extras by default:
+This package needs some extras in the root composer.json:
 
-* typo3/cms
-  * root-dir: private
-  * web-dir: public
+```json
+    "extra": {
+        "typo3/cms": {
+            "root-dir": "private",
+            "web-dir": "public"
+        }
+    }
+```
+
+For more information see [Configuration](https://packagist.org/packages/helhum/typo3-secure-web#user-content-configuration).
 
 ## License
 
