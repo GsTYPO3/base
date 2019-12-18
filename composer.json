@@ -25,6 +25,6 @@
         "helhum/typo3-secure-web": "^0.2.9",
         "roave/security-advisories": "dev-master",
         "typo3-console/composer-auto-commands": "^0.3.0",
-        "typo3/minimal": "dev-master"
+        "typo3/minimal": "^8.7"
     }
 }
