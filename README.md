@@ -7,7 +7,6 @@ to setup a secure and standardized TYPO3 CMS instance.
 
 The following packages are required by this metapackage:
 
-* [helhum/typo3-console](https://packagist.org/packages/helhum/typo3-console): * (any version)
 * [helhum/typo3-secure-web](https://packagist.org/packages/helhum/typo3-secure-web): * (any version)
 * [roave/security-advisories](https://packagist.org/packages/roave/security-advisories): dev-master
 * [typo3-console/composer-auto-commands](https://packagist.org/packages/typo3-console/composer-auto-commands): * (any version)
