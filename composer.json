@@ -22,9 +22,9 @@
         "issues": "https://github.com/GsTYPO3/base/issues"
     },
     "require": {
-        "helhum/typo3-secure-web": "^0.2.9",
+        "helhum/typo3-secure-web": "*",
         "roave/security-advisories": "dev-master",
-        "typo3-console/composer-auto-commands": "^0.3.0",
-        "typo3/minimal": "dev-master"
+        "typo3-console/composer-auto-commands": "*",
+        "typo3/minimal": "*"
     }
 }
