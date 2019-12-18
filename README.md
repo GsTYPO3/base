@@ -10,7 +10,7 @@ The following packages are required by this metapackage:
 * [helhum/typo3-secure-web](https://packagist.org/packages/helhum/typo3-secure-web): ^0.2.9
 * [roave/security-advisories](https://packagist.org/packages/roave/security-advisories): dev-master
 * [typo3-console/composer-auto-commands](https://packagist.org/packages/typo3-console/composer-auto-commands): ^0.3.0
-* [typo3/minimal](https://packagist.org/packages/typo3/minimal): ^8.7
+* [typo3/minimal](https://packagist.org/packages/typo3/minimal): ^9.5
 
 ## Extras
 
