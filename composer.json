@@ -1,36 +1,30 @@
 {
-	"name": "gstypo3/base",
-	"description": "GsTYPO3 Base Composer Metapackage for a secure and standardized TYPO3 CMS instance",
-	"type": "metapackage",
-	"keywords": [
-		"TYPO3 CMS",
-		"Base",
-		"Secure"
-	],
-	"homepage": "https://github.com/GsTYPO3/base",
-	"readme": "README.md",
-	"license": "GPL-3.0-or-later",
-	"authors": [
-		{
-			"name": "Simon Gilli",
-			"email": "typo3@gilbertsoft.org",
-			"homepage": "https://gilbertsoft.com/typo3",
+    "name": "gstypo3/base",
+    "description": "GsTYPO3 Base Composer Metapackage for a secure and standardized TYPO3 CMS instance",
+    "type": "metapackage",
+    "keywords": [
+        "TYPO3 CMS",
+        "Base",
+        "Secure"
+    ],
+    "homepage": "https://github.com/GsTYPO3/base",
+    "readme": "README.md",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Simon Gilli",
+            "email": "typo3@gilbertsoft.org",
+            "homepage": "https://gilbertsoft.com/typo3",
             "role": "Developer"
-		}
-	],
+        }
+    ],
     "support": {
         "issues": "https://github.com/GsTYPO3/base/issues"
     },
-	"require": {
-		"helhum/typo3-secure-web": "*",
+    "require": {
+        "helhum/typo3-secure-web": "*",
         "roave/security-advisories": "dev-master",
-		"typo3-console/composer-auto-commands": "*",
-		"typo3/minimal": "*"
-	},
-	"extra": {
-		"typo3/cms": {
-			"root-dir": "private",
-			"web-dir": "public"
-		}
-	}
+        "typo3-console/composer-auto-commands": "*",
+        "typo3/minimal": "*"
+    }
 }
